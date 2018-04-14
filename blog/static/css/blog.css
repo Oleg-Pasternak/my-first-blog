@@ -1,13 +1,12 @@
 .page-header {
     background-color: #1C1C1C;
     margin-top: 0;
-    margin-left: 0;
-    padding: 5px 20px 10px 40px;
+    padding: 1px 10px 10px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #F5F5F5;
-    font-size: 30pt;
+    font-size: 19pt;
     text-decoration: none;
 }
 
@@ -34,8 +33,9 @@ h1, h2, h3, h4 {
 .top-menu, .top-menu:hover, .top-menu:visited {
     color: #ffffff;
     float: right;
-    font-size: 26pt;
+    font-size: 20pt;
     margin-right: 20px;
+    margin-top: 20px;
 }
 
 .post {
